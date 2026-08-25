@@ -6,6 +6,7 @@ Profissional de **DevOps / Infraestrutura** com experiência também em desenvol
 
 - 🔧 Trabalho com DevOps, infraestrutura e automação
 - 💻 Stack de desenvolvimento: PHP, Laravel, ORM, JavaScript, TypeScript, React, Node.js
+- - 🤖 IA: Claude, Inteligência Artificial
 - ☁️ Cloud: AWS
 - 📍 Rio de Janeiro - RJ, Brasil
 - 🌐 [lanes.rio](https://lanes.rio)
@@ -22,6 +23,7 @@ Profissional de **DevOps / Infraestrutura** com experiência também em desenvol
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20AI-13192B?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
