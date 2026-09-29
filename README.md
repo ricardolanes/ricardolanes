@@ -1,6 +1,6 @@
 # Ricardo Lanes
 
-**Analista de Sistemas Sênior | Full Stack | DevSecOps | Cloud & DevOps**
+**Analista de Sistemas Sênior | Full Stack | DevSecOps | Cloud & DevOps**  
 Rio de Janeiro, RJ 🇧🇷 · mais de 20 anos desenvolvendo, protegendo e mantendo sistemas corporativos
 
 Desenvolvo de ponta a ponta: back-end em PHP (Laravel, CodeIgniter), Node.js e Python, front-end com React, Vue.js e JavaScript/TypeScript, APIs RESTful e bancos relacionais e NoSQL. Trago da experiência em segurança e infraestrutura (8 anos como Analista de Segurança Sênior na Oi) a preocupação com qualidade, performance e segurança desde o código até a nuvem AWS.
